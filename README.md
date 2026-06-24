@@ -287,7 +287,6 @@ Technologies Used:
 
 ## 🎪 Quick Facts About Me
 
-```javascript
 const samad = {
   name: "Samad Feroz",
   location: "Prayagraj, Uttar Pradesh, India",

@@ -217,7 +217,7 @@ Currently pursuing **B.Tech in Computer Science Engineering with AI & ML Special
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samadferoz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samadferoz&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samadferoz&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
 

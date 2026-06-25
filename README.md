@@ -107,14 +107,13 @@ Currently pursuing **B.Tech in Computer Science Engineering with AI & ML Special
 - ✨ Features: Real-time prediction, accuracy metrics, model performance visualization
 
 **Technical Implementation:**
-```python
-Technologies Used:
+### Technologies Used: ###
 ├── Python 3.x
 ├── Scikit-learn (TF-IDF, Naive Bayes)
 ├── NLTK (Tokenization, Stemming)
 ├── Pandas & NumPy (Data Processing)
 └── Streamlit (Deployment)
-```
+
 
 **Key Learnings:** NLP preprocessing, text classification, model evaluation, production deployment
 
@@ -222,7 +221,7 @@ Technologies Used:
 
 <div align="center">
 
-![Samad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samad-Feroz&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&card_width=500)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samad-Feroz2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samad-Feroz&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
 

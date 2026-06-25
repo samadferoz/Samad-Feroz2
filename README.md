@@ -5,7 +5,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Location-Prayagraj%2C%20Uttar%20Pradesh-FF6B6B?style=flat-square&logo=google-maps" />
-  <img src="https://img.shields.io/badge/Status-Available-00d084?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Open To Internships-00d084?style=flat-square" />
   <img src="https://img.shields.io/badge/College-UIT%2C%20Prayagraj-667eea?style=flat-square" />
   <img src="https://img.shields.io/badge/Specialization-AI%20%26%20ML-blue?style=flat-square" />
 </p>
@@ -29,7 +29,7 @@
   </a>
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Samad-Feroz&color=667eea&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=samadferoz&color=667eea&style=flat-square&label=Profile+Views)
 
 ---
 
@@ -278,7 +278,7 @@ Currently pursuing **B.Tech in Computer Science Engineering with AI & ML Special
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Samad-Feroz&theme=tokyo-night&hide_border=true&custom_title=Samad's%20GitHub%20Activity)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=samadferoz&theme=tokyo-night&hide_border=true&custom_title=Samad's%20GitHub%20Activity)
 
 </div>
 
@@ -327,8 +327,6 @@ I'm always excited to:
 <div align="center">
 
 📧 **Email:** [samadferoz2103@gmail.com](mailto:samadferoz2103@gmail.com)
-
-📱 **Phone:** [+91 6387519154](tel:+916387519154)
 
 💼 **LinkedIn:** [/in/samad-feroz-411165319](https://www.linkedin.com/in/samad-feroz-411165319/)
 

@@ -282,11 +282,10 @@ Currently pursuing **B.Tech in Computer Science Engineering with AI & ML Special
 
 ## 🎪 Quick Facts About Me
 
-## 🎪 Quick Facts About Me
-
 const samad = {
   name: "Samad Feroz",
   location: "Prayagraj, Uttar Pradesh, India",
+  phone: "+91 6387519154",
   email: "samadferoz2103@gmail.com",
 
   education: {
@@ -305,7 +304,6 @@ const samad = {
   dreamRole: "AI/ML Engineer | Full Stack Developer",
   coffeeAddict: true // ☕
 }
-
 ---
 
 ## 📬 Let's Connect!

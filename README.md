@@ -280,30 +280,9 @@ Currently pursuing **B.Tech in Computer Science Engineering with AI & ML Special
 
 ---
 
-## 🎪 Quick Facts About Me
-
-const samad = {
-  name: "Samad Feroz",
-  location: "Prayagraj, Uttar Pradesh, India",
-  phone: "+91 6387519154",
-  email: "samadferoz2103@gmail.com",
-
-  education: {
-    degree: "B.Tech CSE (AI & ML)",
-    university: "United Institute of Technology",
-    cgpa: 7.6
-  },
-
-  expertise: {
-    languages: ["Python", "Java", "JavaScript", "SQL"],
-    specialization: ["AI/ML", "NLP", "Web Development"],
-    tools: ["Git", "GitHub", "Streamlit", "VS Code"]
-  },
-
   passion: "Building intelligent solutions that solve real problems",
   dreamRole: "AI/ML Engineer | Full Stack Developer",
   coffeeAddict: true // ☕
-}
 ---
 
 ## 📬 Let's Connect!

@@ -23,10 +23,6 @@
   </a>
   <a href="mailto:samadferoz2103@gmail.com" style="text-decoration: none; margin: 0 12px;">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="tel:+916387519154" style="text-decoration: none; margin: 0 12px;">
-    <img src="https://img.shields.io/badge/Call%20Me-%2B91%206387519154-1f6feb?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
-  </a>
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=samadferoz&color=667eea&style=flat-square&label=Profile+Views)
